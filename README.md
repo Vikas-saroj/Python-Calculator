@@ -40,6 +40,9 @@ python calculator.py
 ```
 ## 📸 Screenshots
 
+<p align="center">
+  <img src='./Screeshot/calc.mp4' alt='Demo'>
+</p>
 
 
 ## 📂 File Structure
@@ -48,13 +51,16 @@ Here's an overview of the project's file structure:
 ```text
 calculator/
 │
+├── Screenshot/
+|   └── calc.mp4
+|
 ├── images/
 │   ├── calculator.ico  # Icon for the application
 │   └── delete.png      # Image for the delete button
 │
 ├── LICENSE
 ├── calculator.py       # Main application script
-├── README.md           
+└── README.md           
 
 ```
 
