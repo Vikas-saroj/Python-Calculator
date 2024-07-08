@@ -23,8 +23,8 @@ Follow these steps to set up the calculator application on your local machine:
 1. Clone the Repository:
 
 ```bash
-git clone https://github.com/Vikas-saroj/calculator.git
-cd calculator
+git clone https://github.com/Vikas-saroj/Python-Calculator..git
+cd Python-Calculator
 ```
 
 2. Install Dependencies:
@@ -41,20 +41,22 @@ python calculator.py
 ## 📸 Screenshots
 
 
-![Digital Clock](https://github.com/Vikas-saroj/Digital-Clock-using-Python/blob/main/Screenshot/digital_clock_output.png)
 
 ## 📂 File Structure
 Here's an overview of the project's file structure:
 
+```text
+calculator/
+│
+├── images/
+│   ├── calculator.ico  # Icon for the application
+│   └── delete.png      # Image for the delete button
+│
+├── LICENSE
+├── calculator.py       # Main application script
+├── README.md           
 
-calculator/\
-│\
-├── images/\
-│   ├── calculator.ico  # Icon for the application\
-│   └── delete.png      # Image for the delete button\
-│\
-├── calculator.py       # Main application script\
-├── README.md           # Documentation\
+```
 
 ## 👨‍💻 Contributing
 We welcome contributions! If you'd like to contribute, please follow these steps:
@@ -69,17 +71,17 @@ We welcome contributions! If you'd like to contribute, please follow these steps
 ## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-[![MIT License](https://img.shields.io/github/license/Vikas-saroj/Codesoft/Calculator
-)](https://github.com/Vikas-saroj/Code-soft/Calculator/blob/main/LICENSE)
+[![MIT License](https://img.shields.io/github/license/Vikas-saroj/Python-Calculator
+)](https://github.com/Vikas-saroj/Python-Calculator/blob/main/LICENSE)
 
 ## 🤝 Acknowledgements
 Thanks to the developers of customtkinter and Pillow for their amazing libraries.
 
 
 ## 📧 Contact
-If you have any questions or suggestions, feel free to reach out to me at [vikas.saroj.gs8@example.com].
+If you have any questions or suggestions, feel free to reach out to me at [Vikas Saroj](vikas.saroj.gs8@example.com) . 
 
 
 ⭐️ Don't forget to give this project a star if you found it helpful!
 
-![GitHub stars](https://img.shields.io/github/stars/Vikas-saroj/Codesoft/Calculator)
+![GitHub stars](https://img.shields.io/github/stars/Vikas-saroj/Python-Calculator?style=social)
