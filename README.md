@@ -38,12 +38,11 @@ pip install customtkinter Pillow
 ```bash
 python calculator.py
 ```
-## 📸 Screenshots
+## 📸 Screenshot
 
-<p align="center">
+<div align="center">
   <img src='./Screeshot/calc.gif' alt='Demo'>
-</p>
-
+</div>
 
 ## 📂 File Structure
 Here's an overview of the project's file structure:
