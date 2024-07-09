@@ -41,7 +41,7 @@ python calculator.py
 ## 📸 Screenshots
 
 <p align="center">
-  <img src='./Screeshot/calc.mp4' alt='Demo'>
+  <img src='./Screeshot/calc.gif' alt='Demo'>
 </p>
 
 
