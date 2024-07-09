@@ -41,7 +41,7 @@ python calculator.py
 ## 📸 Screenshot
 
 <div align="center">
-  <img src='./Screeshot/calc.gif' alt='Demo'>
+  <img src="./Screeshot/calc.gif" alt='Demo'>
 </div>
 
 ## 📂 File Structure
@@ -51,7 +51,7 @@ Here's an overview of the project's file structure:
 calculator/
 │
 ├── Screenshot/
-|   └── calc.mp4
+|   └── calc.gif
 |
 ├── images/
 │   ├── calculator.ico  # Icon for the application
