@@ -40,9 +40,9 @@ python calculator.py
 ```
 ## 📸 Screenshot
 
-<div align="center">
+<p align="center">
   <img src="./Screeshot/calc.gif" alt='Demo'>
-</div>
+</p>
 
 ## 📂 File Structure
 Here's an overview of the project's file structure:
